@@ -1,0 +1,147 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:11:1-35:12
+INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:11:1-35:12
+INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:11:1-35:12
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d76c23ef401ef68521df62a754cb4cd4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f93191764661931d30706472352c8206/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3832e0ce145158d3950c67c07bbdc485/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b8b11caee134ba3462ecc9b52881e250/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1fdc47393dce199be0401d1464ea7a19/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0eb7341e3f4de069bdc9e6ae250d492e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/7a38f4a39de6780aa0442b5f34dd2b02/AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/500ffed106ff38313ec94dfd4c822c65/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.0] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/c968aecc6f95938696a25e07bb3882e6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3169204364888e78b2913add81a4c4b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6d3d19beeb4c9a4785c9b2c01b0e2a08/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/05e77b09e6dd199e32553368bdd8eb6f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ad2c92f24220816696186c992c37d201/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b0f1fe36b5e4f00b992c902511d47601/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/666a901d4d37b75012d91cfbe77e3f3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/79be879cc2d2f59bafb1fd8a5558317d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b7c00da49f0e97f64d373731bae3ef7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/603518aa8f2517054db23fc6c456a130/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a73f6a88b007aaf998071caa94bc8084/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d604eb68cfaead1f9038e734ee481b86/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0f7d1d289e8a58acfad330a58ad8ff65/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/48a6d9b776ee8c13c250610b756c5770/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:11:1-35:12
+INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:11:1-35:12
+	package
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:12:5-34
+	android:versionName
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:14:5-28
+		INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+		INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:11:11-69
+	android:versionCode
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:13:5-33
+		INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+		INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+application
+ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:16:5-33:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b8b11caee134ba3462ecc9b52881e250/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b8b11caee134ba3462ecc9b52881e250/AndroidManifest.xml:22:5-28:19
+	android:allowBackup
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:16:18-45
+activity#com.codingchallenge.activity.MainActivity
+ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:18:9-31:20
+	android:label
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:21:13-45
+	android:configChanges
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:20:13-74
+	android:theme
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:19:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.APP_EMAIL+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:23:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:26:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:27:27-74
+category#android.intent.category.APP_EMAIL
+ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:28:27-75
+category#android.intent.category.MULTIWINDOW_LAUNCHER
+ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:29:17-89
+	android:name
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml:29:27-86
+uses-sdk
+INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d76c23ef401ef68521df62a754cb4cd4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d76c23ef401ef68521df62a754cb4cd4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f93191764661931d30706472352c8206/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/f93191764661931d30706472352c8206/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3832e0ce145158d3950c67c07bbdc485/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/3832e0ce145158d3950c67c07bbdc485/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b8b11caee134ba3462ecc9b52881e250/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b8b11caee134ba3462ecc9b52881e250/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1fdc47393dce199be0401d1464ea7a19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/1fdc47393dce199be0401d1464ea7a19/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0eb7341e3f4de069bdc9e6ae250d492e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/0eb7341e3f4de069bdc9e6ae250d492e/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/7a38f4a39de6780aa0442b5f34dd2b02/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/7a38f4a39de6780aa0442b5f34dd2b02/AndroidManifest.xml:5:5-43
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/500ffed106ff38313ec94dfd4c822c65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/500ffed106ff38313ec94dfd4c822c65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/c968aecc6f95938696a25e07bb3882e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/c968aecc6f95938696a25e07bb3882e6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3169204364888e78b2913add81a4c4b4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/3169204364888e78b2913add81a4c4b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6d3d19beeb4c9a4785c9b2c01b0e2a08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6d3d19beeb4c9a4785c9b2c01b0e2a08/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/05e77b09e6dd199e32553368bdd8eb6f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/05e77b09e6dd199e32553368bdd8eb6f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ad2c92f24220816696186c992c37d201/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/ad2c92f24220816696186c992c37d201/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b0f1fe36b5e4f00b992c902511d47601/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b0f1fe36b5e4f00b992c902511d47601/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/666a901d4d37b75012d91cfbe77e3f3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/666a901d4d37b75012d91cfbe77e3f3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/79be879cc2d2f59bafb1fd8a5558317d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/79be879cc2d2f59bafb1fd8a5558317d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b7c00da49f0e97f64d373731bae3ef7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/b7c00da49f0e97f64d373731bae3ef7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/603518aa8f2517054db23fc6c456a130/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/603518aa8f2517054db23fc6c456a130/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a73f6a88b007aaf998071caa94bc8084/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/a73f6a88b007aaf998071caa94bc8084/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d604eb68cfaead1f9038e734ee481b86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d604eb68cfaead1f9038e734ee481b86/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0f7d1d289e8a58acfad330a58ad8ff65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0f7d1d289e8a58acfad330a58ad8ff65/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/48a6d9b776ee8c13c250610b756c5770/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/48a6d9b776ee8c13c250610b756c5770/AndroidManifest.xml:20:5-44
+INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+		INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+		ADDED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+		INJECTED from /Users/satyendra/Google Drive/vmware_Challenge/CodingChallenge 2/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b8b11caee134ba3462ecc9b52881e250/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b8b11caee134ba3462ecc9b52881e250/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b8b11caee134ba3462ecc9b52881e250/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b8b11caee134ba3462ecc9b52881e250/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/satyendra/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b8b11caee134ba3462ecc9b52881e250/AndroidManifest.xml:24:13-83
